@@ -1,0 +1,20 @@
+.header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.content {
+    max-width: 800px;
+    background-color: #333;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    text-decoration: underline black;   
+}
+
+footer {
+    background-color: #282c34; padding: 10px; text-align: center; color: #61dafb;
+}
